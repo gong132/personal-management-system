@@ -1,0 +1,32 @@
+body {
+  min-height: 300px;
+  min-width: 500px;
+}
+
+#header,
+.navbar-fixed-top,
+.container {
+  height: 8vmin;
+  min-height: 4vmin;
+  font-size: 4vmin
+}
+
+.discription {
+  height: 6vmin;
+  margin: 0;
+}
+
+.btn-default {
+  height: 6vmin;
+  width: 6vmin;
+  border-radius: 50%;
+  background-image: url("../images/1.jpg");
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+

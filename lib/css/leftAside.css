@@ -1,0 +1,20 @@
+.main-content{
+  display: flex;
+  height: 90vmin;
+  justify-content: space-between;
+  padding-top: 2vmin;
+}
+.nav-pills{
+  font-size: 3vmin;
+}
+.nav-pills>li>a{
+  padding: 1vmin;
+  min-height: 4vmin;
+  min-width: 20vmin;
+}
+.nav-pills>li{
+  text-align: center;
+}
+#aside{
+  flex:2;
+}

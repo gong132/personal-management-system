@@ -1,0 +1,30 @@
+.box {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2000;
+  background-color: grey;
+  opacity: 0.5;
+  top: 0;
+}
+
+.form-horizontal {
+  position: relative;
+  background-color: white;
+  height: 60vh;
+  width: 80vh;
+  display: block;
+  margin: 30vh auto 0 auto ;
+  padding: 10vmin;
+  font-size: 4vmin;
+}
+.form-horizontal input{
+  display:block;
+  margin:0 0 3vh 0;
+}
+.back{
+  position: absolute;
+  top: 2vmin;
+  right: 3vmin;
+  cursor: pointer;
+}

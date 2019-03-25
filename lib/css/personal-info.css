@@ -1,0 +1,15 @@
+.left-sec{
+  width: 40vmin;
+  height: 90vmin;
+}
+#head-portrait{
+  height: 15vmin;
+  width: 20vmin;
+  background-image: url('../images/1.jpg');
+  background-size: cover;
+  border-radius: 5vmin;
+}
+.mainBody{
+  flex: 8;
+  padding-left: 10vw;
+}
